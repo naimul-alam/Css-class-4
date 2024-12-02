@@ -1,0 +1,93 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Satisfy&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:  #2c3038;
+}
+h1{
+    background-color: green;
+    color: antiquewhite;
+    font-family: "Cinzel", serif;
+}
+#text {
+    font-family: "Satisfy", cursive;
+    width: 500px;
+  height: 200px;
+  padding: 20px;
+  background-color:khaki;
+  color: black;
+  font-weight: 900;
+  font-style: normal;
+  border: 1px solid black;
+  text-align: center;
+  margin-right: auto;
+  margin-top: 5px;
+  overflow: hidden;
+  letter-spacing: 1px;
+  line-height: 1.7;
+  
+}
+
+#text2 {
+    font-family: "Raleway", sans-serif;
+    background-color: brown;
+    color:white;
+  width: 500px;
+  height: 200px;
+  overflow: hidden;
+  border: 1px solid black;
+  margin-left: auto;
+  padding: 20px;
+  font-size: 15px;
+  margin-top: 5px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  }
+  
+#text3 {
+    font-family: "Cinzel", serif;
+    background-color: blueviolet;
+    color: floralwhite;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  border: 1px solid black;
+  margin: auto;
+  padding: 20px;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  
+    
+   
+  }
+   #hello {
+    background-color: tomato;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    font-size: large;
+    
+  }
+  p{
+    background-color: blue;
+    color: beige;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+footer{
+    font-size: larger;
+    color: darkturquoise;
+    background-color: ;
+    line-height: 50px;
+    letter-spacing: 6px;
+}
